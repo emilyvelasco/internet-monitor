@@ -4,7 +4,9 @@ may work, but I've not tested them with this code.
 
 It was pieced together from some other bits of code, 
 mostly by Aucoeur Ngo, who was helpfully helping me
-troubleshoot why my code wasn't working*/
+troubleshoot why my code wasn't working
+https://stine.omg.lol/
+*/
 
 #include <WiFiNINA.h>
 
